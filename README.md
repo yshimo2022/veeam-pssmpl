@@ -28,3 +28,20 @@ RestAPIを利用して、Backupをスタートするサンプルを提供しま�
 * Veeam Backup for Azure Version 6.0.0.234
 * Windows 11上のPowerShell 7.4.0/(7.2.4でも動作確認済み)
 
+
+## その他
+
+* ログ管理スクリプトとして以下のURLのソースを取り込んで利用しています。
+    * https://github.com/miyamiya/mypss/blob/master/README.md
+* パスワード管理は以下のURLのソースを参考にしました。
+    * https://github.com/senkousya/usingEncryptedStandardStringOnPowershell
+
+## リリース
+
+### 変更点
+
+### 修正点
+
+### リリース日
+
+* v1.0.0 2023/12/18
